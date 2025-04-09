@@ -1,0 +1,995 @@
+2025.02.23 18:29:35 INFO  Started: Metals version 1.5.1 in folders 'C:\Users\willi\Desktop\N-pulse\scalismo_project' for client Visual Studio Code 1.97.2.
+2025.02.23 18:29:36 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\model_creation.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.23 18:29:39 INFO  Running List(C:\Program Files\scala-cli-x86_64-pc-win32\scala-cli.EXE, setup-ide, C:\Users\willi\Desktop\N-pulse\scalismo_project)
+2025.02.23 18:29:40 INFO  Attempting to connect to the build server...
+2025.02.23 18:29:40 INFO  Running BSP server List(C:\Program Files\scala-cli-x86_64-pc-win32\scala-cli.EXE, bsp, --json-options, C:\Users\willi\Desktop\N-pulse\scalismo_project\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\willi\Desktop\N-pulse\scalismo_project\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\willi\Desktop\N-pulse\scalismo_project\.scala-build\ide-envs.json, C:\Users\willi\Desktop\N-pulse\scalismo_project)
+2025.02.23 18:29:42 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\willi\Desktop\N-pulse\scalismo_project\.metals\bsp.trace.json or C:\Users\willi\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.02.23 18:29:43 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\model_creation.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.23 18:29:44 INFO  time: Connected to build server in 4.83s
+2025.02.23 18:29:44 INFO  Connected to Build server: scala-cli v1.6.2
+2025.02.23 18:29:44 INFO  time: Imported build in 0.37s
+2025.02.23 18:29:44 INFO  running doctor check
+2025.02.23 18:29:44 INFO  java targets: scalismo_project_d5c0a6989e-test, scalismo_project_d5c0a6989e
+2025.02.23 18:29:48 INFO  compiling scalismo_project_d5c0a6989e (1 scala source)
+2025.02.23 18:29:51 INFO  time: compiled scalismo_project_d5c0a6989e in 2.74s
+2025.02.23 18:29:52 INFO  compiling scalismo_project_d5c0a6989e (1 scala source)
+2025.02.23 18:29:54 INFO  time: compiled scalismo_project_d5c0a6989e in 1.45s
+févr. 23, 2025 6:30:07 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+AVERTISSEMENT: Unsupported notification method: metals/windowStateDidChange
+2025.02.23 18:30:14 INFO  time: indexed workspace in 29s
+2025.02.23 18:30:16 INFO  compiling scalismo_project_d5c0a6989e (1 scala source)
+2025.02.23 18:30:19 INFO  time: compiled scalismo_project_d5c0a6989e in 2.65s
+2025.02.23 18:30:21 INFO  compiling scalismo_project_d5c0a6989e (1 scala source)
+2025.02.23 18:30:23 INFO  time: compiled scalismo_project_d5c0a6989e in 2.65s
+févr. 23, 2025 6:30:44 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+AVERTISSEMENT: Unsupported notification method: metals/windowStateDidChange
+févr. 23, 2025 6:31:00 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+AVERTISSEMENT: Unsupported notification method: metals/windowStateDidChange
+févr. 23, 2025 6:31:01 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+GRAVE: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\willi\Desktop\N-pulse\scalismo_project\.metals\.reports\metals-full\2025-02-23\r_empty-definition_(scalismo_project_d5c0a6989e)_18-31-01-696.md)
+2025.02.23 18:31:10 INFO  compiling scalismo_project_d5c0a6989e (1 scala source)
+févr. 23, 2025 6:31:13 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+AVERTISSEMENT: Unsupported notification method: metals/windowStateDidChange
+2025.02.23 18:31:13 INFO  time: compiled scalismo_project_d5c0a6989e in 3.41s
+févr. 23, 2025 6:31:34 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+AVERTISSEMENT: Unsupported notification method: metals/windowStateDidChange
+févr. 23, 2025 6:31:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 85
+2025.02.23 18:32:17 INFO  compiling scalismo_project_d5c0a6989e (1 scala source)
+févr. 23, 2025 6:32:18 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+AVERTISSEMENT: Unsupported notification method: metals/windowStateDidChange
+2025.02.23 18:32:20 INFO  time: compiled scalismo_project_d5c0a6989e in 2.98s
+févr. 23, 2025 6:32:38 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+AVERTISSEMENT: Unsupported notification method: metals/windowStateDidChange
+févr. 23, 2025 6:33:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 198
+févr. 23, 2025 6:33:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 201
+2025.02.23 18:34:19 INFO  compiling scalismo_project_d5c0a6989e (1 scala source)
+févr. 23, 2025 6:34:20 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+AVERTISSEMENT: Unsupported notification method: metals/windowStateDidChange
+2025.02.23 18:34:22 INFO  time: compiled scalismo_project_d5c0a6989e in 2.76s
+févr. 23, 2025 6:34:28 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+AVERTISSEMENT: Unsupported notification method: metals/windowStateDidChange
+févr. 23, 2025 6:35:00 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+AVERTISSEMENT: Unsupported notification method: metals/windowStateDidChange
+févr. 23, 2025 6:35:03 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+AVERTISSEMENT: Unsupported notification method: metals/windowStateDidChange
+2025.02.23 18:35:11 INFO  compiling scalismo_project_d5c0a6989e (1 scala source)
+2025.02.23 18:35:14 INFO  time: compiled scalismo_project_d5c0a6989e in 2.56s
+févr. 23, 2025 6:35:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+AVERTISSEMENT: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "vscode-chat-code-block://dc2439ed-0d23-4864-8ae2-49d6d9e79ec4/response_e3b9ddf4-29ca-4754-99b0-e730f965e262/0#%7B%22references%22%3A%5B%7B%22uri%22%3A%7B%22%24mid%22%3A1%2C%22fsPath%22%3A%22c%3A%5C%5CUsers%5C%5Cwilli%5C%5CDesktop%5C%5CN-pulse%5C%5Cscalismo_project%5C%5Cmodel_creation.scala%22%2C%22_sep%22%3A1%2C%22external%22%3A%22file%3A%2F%2F%2Fc%253A%2FUsers%2Fwilli%2FDesktop%2FN-pulse%2Fscalismo_project%2Fmodel_creation.scala%22%2C%22path%22%3A%22%2FC%3A%2FUsers%2Fwilli%2FDesktop%2FN-pulse%2Fscalismo_project%2Fmodel_creation.scala%22%2C%22scheme%22%3A%22file%22%7D%2C%22range%22%3A%7B%22startLineNumber%22%3A29%2C%22startColumn%22%3A1%2C%22endLineNumber%22%3A62%2C%22endColumn%22%3A1%7D%7D%5D%7D"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "vscode-chat-code-block" not installed
+	at java.base/java.nio.file.Path.of(Path.java:212)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:130)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:190)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:774)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:771)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:718)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:42)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+févr. 23, 2025 6:35:33 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+AVERTISSEMENT: Unsupported notification method: metals/windowStateDidChange
+févr. 23, 2025 6:35:52 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+AVERTISSEMENT: Unsupported notification method: metals/windowStateDidChange
+févr. 23, 2025 6:36:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+AVERTISSEMENT: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "vscode-chat-code-block://dc2439ed-0d23-4864-8ae2-49d6d9e79ec4/response_f2ca3efe-8185-4f19-af9f-efc79de6d537/0#%7B%22references%22%3A%5B%7B%22uri%22%3A%7B%22%24mid%22%3A1%2C%22fsPath%22%3A%22c%3A%5C%5CUsers%5C%5Cwilli%5C%5CDesktop%5C%5CN-pulse%5C%5Cscalismo_project%5C%5Cmodel_creation.scala%22%2C%22_sep%22%3A1%2C%22external%22%3A%22file%3A%2F%2F%2Fc%253A%2FUsers%2Fwilli%2FDesktop%2FN-pulse%2Fscalismo_project%2Fmodel_creation.scala%22%2C%22path%22%3A%22%2FC%3A%2FUsers%2Fwilli%2FDesktop%2FN-pulse%2Fscalismo_project%2Fmodel_creation.scala%22%2C%22scheme%22%3A%22file%22%7D%7D%5D%7D"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "vscode-chat-code-block" not installed
+	at java.base/java.nio.file.Path.of(Path.java:212)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:130)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:190)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:774)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:771)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:718)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:42)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+févr. 23, 2025 6:37:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 508
+févr. 23, 2025 6:37:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+AVERTISSEMENT: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "vscode-chat-code-block://dc2439ed-0d23-4864-8ae2-49d6d9e79ec4/response_f2ca3efe-8185-4f19-af9f-efc79de6d537/0#%7B%22references%22%3A%5B%7B%22uri%22%3A%7B%22%24mid%22%3A1%2C%22fsPath%22%3A%22c%3A%5C%5CUsers%5C%5Cwilli%5C%5CDesktop%5C%5CN-pulse%5C%5Cscalismo_project%5C%5Cmodel_creation.scala%22%2C%22_sep%22%3A1%2C%22external%22%3A%22file%3A%2F%2F%2Fc%253A%2FUsers%2Fwilli%2FDesktop%2FN-pulse%2Fscalismo_project%2Fmodel_creation.scala%22%2C%22path%22%3A%22%2FC%3A%2FUsers%2Fwilli%2FDesktop%2FN-pulse%2Fscalismo_project%2Fmodel_creation.scala%22%2C%22scheme%22%3A%22file%22%7D%7D%5D%7D"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "vscode-chat-code-block" not installed
+	at java.base/java.nio.file.Path.of(Path.java:212)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:130)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:190)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:774)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:771)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:718)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:42)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+févr. 23, 2025 6:37:58 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+AVERTISSEMENT: Unsupported notification method: metals/windowStateDidChange
+2025.02.23 18:37:58 INFO  compiling scalismo_project_d5c0a6989e (1 scala source)
+2025.02.23 18:38:00 INFO  time: compiled scalismo_project_d5c0a6989e in 1.77s
+févr. 23, 2025 6:38:58 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+AVERTISSEMENT: Unsupported notification method: metals/windowStateDidChange
+févr. 23, 2025 7:58:56 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+AVERTISSEMENT: Unsupported notification method: metals/windowStateDidChange
+févr. 23, 2025 7:59:01 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+AVERTISSEMENT: Unsupported notification method: metals/windowStateDidChange
+2025.02.23 19:59:23 INFO  compiling scalismo_project_d5c0a6989e (1 scala source)
+2025.02.23 19:59:23 INFO  time: compiled scalismo_project_d5c0a6989e in 0.85s
+févr. 23, 2025 7:59:24 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+AVERTISSEMENT: Unsupported notification method: metals/windowStateDidChange
+févr. 23, 2025 8:00:11 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+AVERTISSEMENT: Unsupported notification method: metals/windowStateDidChange
+févr. 23, 2025 8:02:33 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+AVERTISSEMENT: Unsupported notification method: metals/windowStateDidChange
+févr. 23, 2025 8:02:46 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+AVERTISSEMENT: Unsupported notification method: metals/windowStateDidChange
+févr. 23, 2025 8:03:01 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+AVERTISSEMENT: Unsupported notification method: metals/windowStateDidChange
+févr. 23, 2025 8:03:56 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+AVERTISSEMENT: Unsupported notification method: metals/windowStateDidChange
+févr. 23, 2025 8:10:07 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+AVERTISSEMENT: Unsupported notification method: metals/windowStateDidChange
+févr. 23, 2025 8:10:29 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+AVERTISSEMENT: Unsupported notification method: metals/windowStateDidChange
+févr. 23, 2025 8:57:23 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+AVERTISSEMENT: Unsupported notification method: metals/windowStateDidChange
+2025.02.23 20:57:26 INFO  Shutting down server
+2025.02.23 20:57:26 INFO  shutting down Metals
+2025.02.23 20:57:26 INFO  Shut down connection with build server.
+2025.02.23 20:57:26 INFO  Exiting server
+2025.02.25 23:05:38 INFO  Started: Metals version 1.5.1 in folders 'C:\Users\willi\Desktop\N-pulse\scalismo_project' for client Visual Studio Code 1.97.2.
+2025.02.25 23:05:40 INFO  Attempting to connect to the build server...
+2025.02.25 23:05:40 INFO  Running BSP server List(C:\Program Files\scala-cli-x86_64-pc-win32\scala-cli.EXE, bsp, --json-options, C:\Users\willi\Desktop\N-pulse\scalismo_project\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\willi\Desktop\N-pulse\scalismo_project\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\willi\Desktop\N-pulse\scalismo_project\.scala-build\ide-envs.json, C:\Users\willi\Desktop\N-pulse\scalismo_project)
+2025.02.25 23:05:42 INFO  BSP server: [warn] .\0_model_creation.scala:1:1
+2025.02.25 23:05:42 INFO  BSP server: [warn] Using directives detected in multiple files. It is recommended to keep them centralized in the C:\Users\willi\Desktop\N-pulse\scalismo_project\project.scala file.
+2025.02.25 23:05:42 INFO  BSP server: [warn] .\1_rigid_alignment.scala:1:1
+2025.02.25 23:05:42 INFO  BSP server: [warn] Using directives detected in multiple files. It is recommended to keep them centralized in the C:\Users\willi\Desktop\N-pulse\scalismo_project\project.scala file.
+2025.02.25 23:05:42 INFO  BSP server: [warn] .\2_model_fitting.scala:1:1
+2025.02.25 23:05:42 INFO  BSP server: [warn] Using directives detected in multiple files. It is recommended to keep them centralized in the C:\Users\willi\Desktop\N-pulse\scalismo_project\project.scala file.
+2025.02.25 23:05:42 INFO  BSP server: [warn] .\3_nonrigid_registration.scala:1:1
+2025.02.25 23:05:42 INFO  BSP server: [warn] Using directives detected in multiple files. It is recommended to keep them centralized in the C:\Users\willi\Desktop\N-pulse\scalismo_project\project.scala file.
+2025.02.25 23:05:42 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\willi\Desktop\N-pulse\scalismo_project\.metals\bsp.trace.json or C:\Users\willi\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.02.25 23:05:44 INFO  BSP server: Starting compilation server
+2025.02.25 23:05:49 INFO  BSP server: [warn] .\0_model_creation.scala:1:1
+2025.02.25 23:05:49 INFO  BSP server: [warn] Using directives detected in multiple files. It is recommended to keep them centralized in the C:\Users\willi\Desktop\N-pulse\scalismo_project\project.scala file.
+2025.02.25 23:05:49 INFO  BSP server: [warn] .\1_rigid_alignment.scala:1:1
+2025.02.25 23:05:49 INFO  BSP server: [warn] Using directives detected in multiple files. It is recommended to keep them centralized in the C:\Users\willi\Desktop\N-pulse\scalismo_project\project.scala file.
+2025.02.25 23:05:49 INFO  BSP server: [warn] .\2_model_fitting.scala:1:1
+2025.02.25 23:05:49 INFO  BSP server: [warn] Using directives detected in multiple files. It is recommended to keep them centralized in the C:\Users\willi\Desktop\N-pulse\scalismo_project\project.scala file.
+2025.02.25 23:05:49 INFO  BSP server: [warn] .\3_nonrigid_registration.scala:1:1
+2025.02.25 23:05:49 INFO  BSP server: [warn] Using directives detected in multiple files. It is recommended to keep them centralized in the C:\Users\willi\Desktop\N-pulse\scalismo_project\project.scala file.
+2025.02.25 23:05:49 INFO  BSP server: Checking https://repo1.maven.org/maven2/org/scala-lang/scala3-library_3/
+2025.02.25 23:05:49 INFO  BSP server: Checked https://repo1.maven.org/maven2/org/scala-lang/scala3-library_3/
+2025.02.25 23:05:49 INFO  BSP server: Checking https://repo1.maven.org/maven2/org/scala-lang/scala3-library_3/maven-metadata.xml
+2025.02.25 23:05:49 INFO  BSP server: Checked https://repo1.maven.org/maven2/org/scala-lang/scala3-library_3/maven-metadata.xml
+2025.02.25 23:05:52 INFO  BSP server: Checking https://repo1.maven.org/maven2/ch/unibas/cs/gravis/scalismo-ui_3/
+2025.02.25 23:05:52 INFO  BSP server: Checked https://repo1.maven.org/maven2/ch/unibas/cs/gravis/scalismo-ui_3/
+2025.02.25 23:05:52 INFO  BSP server: Checking https://repo1.maven.org/maven2/ch/unibas/cs/gravis/scalismo-ui_3/maven-metadata.xml
+2025.02.25 23:05:52 INFO  BSP server: Checked https://repo1.maven.org/maven2/ch/unibas/cs/gravis/scalismo-ui_3/maven-metadata.xml
+2025.02.25 23:05:52 INFO  BSP server: [warn] .\0_model_creation.scala:1:1
+2025.02.25 23:05:52 INFO  BSP server: [warn] Using directives detected in multiple files. It is recommended to keep them centralized in the C:\Users\willi\Desktop\N-pulse\scalismo_project\project.scala file.
+2025.02.25 23:05:52 INFO  BSP server: [warn] .\1_rigid_alignment.scala:1:1
+2025.02.25 23:05:52 INFO  BSP server: [warn] Using directives detected in multiple files. It is recommended to keep them centralized in the C:\Users\willi\Desktop\N-pulse\scalismo_project\project.scala file.
+2025.02.25 23:05:52 INFO  BSP server: [warn] .\2_model_fitting.scala:1:1
+2025.02.25 23:05:52 INFO  BSP server: [warn] Using directives detected in multiple files. It is recommended to keep them centralized in the C:\Users\willi\Desktop\N-pulse\scalismo_project\project.scala file.
+2025.02.25 23:05:52 INFO  BSP server: [warn] .\3_nonrigid_registration.scala:1:1
+2025.02.25 23:05:52 INFO  BSP server: [warn] Using directives detected in multiple files. It is recommended to keep them centralized in the C:\Users\willi\Desktop\N-pulse\scalismo_project\project.scala file.
+2025.02.25 23:05:53 INFO  time: Connected to build server in 12s
+2025.02.25 23:05:53 INFO  Connected to Build server: scala-cli v1.6.2
+2025.02.25 23:05:53 INFO  time: Imported build in 0.24s
+2025.02.25 23:05:53 INFO  running doctor check
+2025.02.25 23:05:53 INFO  java targets: scalismo_project_d5c0a6989e-test, scalismo_project_d5c0a6989e
+2025.02.25 23:05:56 INFO  compiling scalismo_project_d5c0a6989e (4 scala sources)
+2025.02.25 23:06:05 INFO  time: indexed workspace in 12s
+2025.02.25 23:06:08 INFO  time: compiled scalismo_project_d5c0a6989e in 12s
+2025.02.25 23:06:12 INFO  BSP server: [warn] .\0_model_creation.scala:1:1
+2025.02.25 23:06:12 INFO  BSP server: [warn] Using directives detected in multiple files. It is recommended to keep them centralized in the C:\Users\willi\Desktop\N-pulse\scalismo_project\project.scala file.
+2025.02.25 23:06:12 INFO  BSP server: [warn] .\1_rigid_alignment.scala:1:1
+2025.02.25 23:06:12 INFO  BSP server: [warn] Using directives detected in multiple files. It is recommended to keep them centralized in the C:\Users\willi\Desktop\N-pulse\scalismo_project\project.scala file.
+2025.02.25 23:06:12 INFO  BSP server: [warn] .\2_model_fitting.scala:1:1
+2025.02.25 23:06:12 INFO  BSP server: [warn] Using directives detected in multiple files. It is recommended to keep them centralized in the C:\Users\willi\Desktop\N-pulse\scalismo_project\project.scala file.
+2025.02.25 23:06:12 INFO  BSP server: [warn] .\3_nonrigid_registration.scala:1:1
+2025.02.25 23:06:12 INFO  BSP server: [warn] Using directives detected in multiple files. It is recommended to keep them centralized in the C:\Users\willi\Desktop\N-pulse\scalismo_project\project.scala file.
+2025.02.25 23:06:53 INFO  BSP server: [warn] .\0_model_creation.scala:1:1
+2025.02.25 23:06:53 INFO  BSP server: [warn] Using directives detected in multiple files. It is recommended to keep them centralized in the C:\Users\willi\Desktop\N-pulse\scalismo_project\project.scala file.
+2025.02.25 23:06:53 INFO  BSP server: [warn] .\1_rigid_alignment.scala:1:1
+2025.02.25 23:06:53 INFO  BSP server: [warn] Using directives detected in multiple files. It is recommended to keep them centralized in the C:\Users\willi\Desktop\N-pulse\scalismo_project\project.scala file.
+2025.02.25 23:06:53 INFO  BSP server: [warn] .\2_model_fitting.scala:1:1
+2025.02.25 23:06:53 INFO  BSP server: [warn] Using directives detected in multiple files. It is recommended to keep them centralized in the C:\Users\willi\Desktop\N-pulse\scalismo_project\project.scala file.
+2025.02.25 23:06:53 INFO  BSP server: [warn] .\3_nonrigid_registration.scala:1:1
+2025.02.25 23:06:53 INFO  BSP server: [warn] Using directives detected in multiple files. It is recommended to keep them centralized in the C:\Users\willi\Desktop\N-pulse\scalismo_project\project.scala file.
+2025.02.25 23:06:54 INFO  compiling scalismo_project_d5c0a6989e (1 scala source)
+2025.02.25 23:06:56 INFO  time: compiled scalismo_project_d5c0a6989e in 1.33s
+févr. 25, 2025 11:07:00 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+AVERTISSEMENT: Unsupported notification method: metals/windowStateDidChange
+févr. 25, 2025 11:07:36 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+AVERTISSEMENT: Unsupported notification method: metals/windowStateDidChange
+févr. 25, 2025 11:09:10 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+AVERTISSEMENT: Unsupported notification method: metals/windowStateDidChange
+févr. 25, 2025 11:09:10 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+AVERTISSEMENT: Unsupported notification method: metals/windowStateDidChange
+févr. 25, 2025 11:10:35 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+AVERTISSEMENT: Unsupported notification method: metals/windowStateDidChange
+févr. 25, 2025 11:10:37 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+AVERTISSEMENT: Unsupported notification method: metals/windowStateDidChange
+févr. 25, 2025 11:10:50 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+AVERTISSEMENT: Unsupported notification method: metals/windowStateDidChange
+févr. 25, 2025 11:10:53 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+AVERTISSEMENT: Unsupported notification method: metals/windowStateDidChange
+févr. 25, 2025 11:10:54 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+AVERTISSEMENT: Unsupported notification method: metals/windowStateDidChange
+févr. 25, 2025 11:11:50 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+AVERTISSEMENT: Unsupported notification method: metals/windowStateDidChange
+févr. 25, 2025 11:14:43 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+AVERTISSEMENT: Unsupported notification method: metals/windowStateDidChange
+févr. 25, 2025 11:14:43 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+AVERTISSEMENT: Unsupported notification method: metals/windowStateDidChange
+2025.02.25 23:16:15 INFO  BSP server: [warn] .\0_model_creation.scala:1:1
+2025.02.25 23:16:15 INFO  BSP server: [warn] Using directives detected in multiple files. It is recommended to keep them centralized in the C:\Users\willi\Desktop\N-pulse\scalismo_project\project.scala file.
+2025.02.25 23:16:15 INFO  BSP server: [warn] .\1_rigid_alignment.scala:1:1
+2025.02.25 23:16:15 INFO  BSP server: [warn] Using directives detected in multiple files. It is recommended to keep them centralized in the C:\Users\willi\Desktop\N-pulse\scalismo_project\project.scala file.
+2025.02.25 23:16:15 INFO  BSP server: [warn] .\2_model_fitting.scala:1:1
+2025.02.25 23:16:15 INFO  BSP server: [warn] Using directives detected in multiple files. It is recommended to keep them centralized in the C:\Users\willi\Desktop\N-pulse\scalismo_project\project.scala file.
+2025.02.25 23:16:15 INFO  BSP server: [warn] .\3_nonrigid_registration.scala:1:1
+2025.02.25 23:16:15 INFO  BSP server: [warn] Using directives detected in multiple files. It is recommended to keep them centralized in the C:\Users\willi\Desktop\N-pulse\scalismo_project\project.scala file.
+2025.02.25 23:16:16 INFO  compiling scalismo_project_d5c0a6989e (1 scala source)
+févr. 25, 2025 11:16:17 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+AVERTISSEMENT: Unsupported notification method: metals/windowStateDidChange
+2025.02.25 23:16:17 INFO  time: compiled scalismo_project_d5c0a6989e in 1.64s
+févr. 25, 2025 11:17:23 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+AVERTISSEMENT: Unsupported notification method: metals/windowStateDidChange
+févr. 25, 2025 11:21:39 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+AVERTISSEMENT: Unsupported notification method: metals/windowStateDidChange
+févr. 25, 2025 11:21:39 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+AVERTISSEMENT: Unsupported notification method: metals/windowStateDidChange
+2025.02.25 23:21:46 INFO  BSP server: [warn] .\0_model_creation.scala:1:1
+2025.02.25 23:21:46 INFO  BSP server: [warn] Using directives detected in multiple files. It is recommended to keep them centralized in the C:\Users\willi\Desktop\N-pulse\scalismo_project\project.scala file.
+2025.02.25 23:21:46 INFO  BSP server: [warn] .\1_rigid_alignment.scala:1:1
+2025.02.25 23:21:46 INFO  BSP server: [warn] Using directives detected in multiple files. It is recommended to keep them centralized in the C:\Users\willi\Desktop\N-pulse\scalismo_project\project.scala file.
+2025.02.25 23:21:46 INFO  BSP server: [warn] .\2_model_fitting.scala:1:1
+2025.02.25 23:21:46 INFO  BSP server: [warn] Using directives detected in multiple files. It is recommended to keep them centralized in the C:\Users\willi\Desktop\N-pulse\scalismo_project\project.scala file.
+2025.02.25 23:21:46 INFO  BSP server: [warn] .\3_nonrigid_registration.scala:1:1
+2025.02.25 23:21:46 INFO  BSP server: [warn] Using directives detected in multiple files. It is recommended to keep them centralized in the C:\Users\willi\Desktop\N-pulse\scalismo_project\project.scala file.
+2025.02.25 23:21:47 INFO  compiling scalismo_project_d5c0a6989e (1 scala source)
+2025.02.25 23:21:47 INFO  time: compiled scalismo_project_d5c0a6989e in 0.9s
+févr. 25, 2025 11:21:54 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+AVERTISSEMENT: Unsupported notification method: metals/windowStateDidChange
+févr. 25, 2025 11:21:54 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+AVERTISSEMENT: Unsupported notification method: metals/windowStateDidChange
+févr. 25, 2025 11:21:55 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+AVERTISSEMENT: Unsupported notification method: metals/windowStateDidChange
+févr. 25, 2025 11:21:55 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+AVERTISSEMENT: Unsupported notification method: metals/windowStateDidChange
+févr. 25, 2025 11:21:57 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+AVERTISSEMENT: Unsupported notification method: metals/windowStateDidChange
+févr. 25, 2025 11:21:57 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+AVERTISSEMENT: Unsupported notification method: metals/windowStateDidChange
+févr. 25, 2025 11:21:59 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+AVERTISSEMENT: Unsupported notification method: metals/windowStateDidChange
+févr. 25, 2025 11:22:01 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+AVERTISSEMENT: Unsupported notification method: metals/windowStateDidChange
+2025.02.25 23:22:01 INFO  Shutting down server
+2025.02.25 23:22:01 INFO  shutting down Metals
+2025.02.25 23:22:01 INFO  Shut down connection with build server.
+2025.02.25 23:22:01 INFO  Exiting server
+2025.03.14 13:17:58 INFO  Started: Metals version 1.5.1 in folders 'C:\Users\willi\Desktop\N-pulse\scalismo_project' for client Visual Studio Code 1.98.2.
+2025.03.14 13:18:02 INFO  Attempting to connect to the build server...
+2025.03.14 13:18:02 INFO  Running BSP server List(C:\Program Files\scala-cli-x86_64-pc-win32\scala-cli.exe, bsp, --json-options, C:\Users\willi\Desktop\N-pulse\scalismo_project\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\willi\Desktop\N-pulse\scalismo_project\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\willi\Desktop\N-pulse\scalismo_project\.scala-build\ide-envs.json, C:\Users\willi\Desktop\N-pulse\scalismo_project\your_file.scala)
+2025.03.14 13:18:03 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\willi\Desktop\N-pulse\scalismo_project\.metals\bsp.trace.json or C:\Users\willi\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.03.14 13:18:03 INFO  BSP server: Error: java.nio.file.NoSuchFileException: C:\Users\willi\Desktop\N-pulse\scalismo_project\your_file.scala
+2025.03.14 13:18:03 INFO  BSP server: For more details, please see 'C:\Users\willi\Desktop\N-pulse\scalismo_project\.scala-build\stacktraces\1741954683-7413664883468796722.log'
+mars 14, 2025 1:18:08 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+AVERTISSEMENT: Unsupported notification method: metals/windowStateDidChange
+mars 14, 2025 1:19:00 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+AVERTISSEMENT: Unsupported notification method: metals/windowStateDidChange
+2025.03.14 13:19:03 ERROR Timeout waiting for 'build/initialize' response
+2025.03.14 13:19:03 WARN  Retrying connection to the build server scala-cli
+2025.03.14 13:19:03 INFO  Running BSP server List(C:\Program Files\scala-cli-x86_64-pc-win32\scala-cli.exe, bsp, --json-options, C:\Users\willi\Desktop\N-pulse\scalismo_project\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\willi\Desktop\N-pulse\scalismo_project\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\willi\Desktop\N-pulse\scalismo_project\.scala-build\ide-envs.json, C:\Users\willi\Desktop\N-pulse\scalismo_project\your_file.scala)
+2025.03.14 13:19:04 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\willi\Desktop\N-pulse\scalismo_project\.metals\bsp.trace.json or C:\Users\willi\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.03.14 13:19:04 INFO  BSP server: Error: java.nio.file.NoSuchFileException: C:\Users\willi\Desktop\N-pulse\scalismo_project\your_file.scala
+2025.03.14 13:19:04 INFO  BSP server: For more details, please see 'C:\Users\willi\Desktop\N-pulse\scalismo_project\.scala-build\stacktraces\1741954744-9475045086260898148.log'
+mars 14, 2025 1:19:15 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+AVERTISSEMENT: Unsupported notification method: metals/windowStateDidChange
+mars 14, 2025 1:19:18 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+AVERTISSEMENT: Unsupported notification method: metals/windowStateDidChange
+2025.03.14 13:19:18 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:19:20 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:19:20 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:19:20 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:19:32 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+mars 14, 2025 1:19:32 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+AVERTISSEMENT: Unsupported notification method: metals/windowStateDidChange
+2025.03.14 13:20:04 ERROR Timeout waiting for 'build/initialize' response
+2025.03.14 13:20:04 WARN  Retrying connection to the build server scala-cli
+2025.03.14 13:20:04 INFO  Running BSP server List(C:\Program Files\scala-cli-x86_64-pc-win32\scala-cli.exe, bsp, --json-options, C:\Users\willi\Desktop\N-pulse\scalismo_project\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\willi\Desktop\N-pulse\scalismo_project\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\willi\Desktop\N-pulse\scalismo_project\.scala-build\ide-envs.json, C:\Users\willi\Desktop\N-pulse\scalismo_project\your_file.scala)
+2025.03.14 13:20:04 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\willi\Desktop\N-pulse\scalismo_project\.metals\bsp.trace.json or C:\Users\willi\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.03.14 13:20:05 INFO  BSP server: Error: java.nio.file.NoSuchFileException: C:\Users\willi\Desktop\N-pulse\scalismo_project\your_file.scala
+2025.03.14 13:20:05 INFO  BSP server: For more details, please see 'C:\Users\willi\Desktop\N-pulse\scalismo_project\.scala-build\stacktraces\1741954804-7872168576663805763.log'
+mars 14, 2025 1:20:28 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+AVERTISSEMENT: Unsupported notification method: metals/windowStateDidChange
+2025.03.14 13:21:04 ERROR Timeout waiting for 'build/initialize' response
+2025.03.14 13:21:04 WARN  Retrying connection to the build server scala-cli
+2025.03.14 13:21:04 INFO  Running BSP server List(C:\Program Files\scala-cli-x86_64-pc-win32\scala-cli.exe, bsp, --json-options, C:\Users\willi\Desktop\N-pulse\scalismo_project\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\willi\Desktop\N-pulse\scalismo_project\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\willi\Desktop\N-pulse\scalismo_project\.scala-build\ide-envs.json, C:\Users\willi\Desktop\N-pulse\scalismo_project\your_file.scala)
+2025.03.14 13:21:05 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\willi\Desktop\N-pulse\scalismo_project\.metals\bsp.trace.json or C:\Users\willi\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.03.14 13:21:05 INFO  BSP server: Error: java.nio.file.NoSuchFileException: C:\Users\willi\Desktop\N-pulse\scalismo_project\your_file.scala
+2025.03.14 13:21:05 INFO  BSP server: For more details, please see 'C:\Users\willi\Desktop\N-pulse\scalismo_project\.scala-build\stacktraces\1741954865-6595557795059423320.log'
+2025.03.14 13:22:05 ERROR Timeout waiting for 'build/initialize' response
+2025.03.14 13:22:05 WARN  Retrying connection to the build server scala-cli
+2025.03.14 13:22:05 INFO  Running BSP server List(C:\Program Files\scala-cli-x86_64-pc-win32\scala-cli.exe, bsp, --json-options, C:\Users\willi\Desktop\N-pulse\scalismo_project\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\willi\Desktop\N-pulse\scalismo_project\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\willi\Desktop\N-pulse\scalismo_project\.scala-build\ide-envs.json, C:\Users\willi\Desktop\N-pulse\scalismo_project\your_file.scala)
+2025.03.14 13:22:05 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\willi\Desktop\N-pulse\scalismo_project\.metals\bsp.trace.json or C:\Users\willi\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.03.14 13:22:06 INFO  BSP server: Error: java.nio.file.NoSuchFileException: C:\Users\willi\Desktop\N-pulse\scalismo_project\your_file.scala
+2025.03.14 13:22:06 INFO  BSP server: For more details, please see 'C:\Users\willi\Desktop\N-pulse\scalismo_project\.scala-build\stacktraces\1741954925-15242586127329985283.log'
+2025.03.14 13:35:13 ERROR Timeout waiting for 'build/initialize' response
+2025.03.14 13:35:13 WARN  Retrying connection to the build server scala-cli
+2025.03.14 13:35:13 INFO  Running BSP server List(C:\Program Files\scala-cli-x86_64-pc-win32\scala-cli.exe, bsp, --json-options, C:\Users\willi\Desktop\N-pulse\scalismo_project\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\willi\Desktop\N-pulse\scalismo_project\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\willi\Desktop\N-pulse\scalismo_project\.scala-build\ide-envs.json, C:\Users\willi\Desktop\N-pulse\scalismo_project\your_file.scala)
+mars 14, 2025 1:35:14 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+AVERTISSEMENT: Unsupported notification method: metals/windowStateDidChange
+2025.03.14 13:35:14 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\willi\Desktop\N-pulse\scalismo_project\.metals\bsp.trace.json or C:\Users\willi\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.03.14 13:35:14 INFO  BSP server: Error: java.nio.file.NoSuchFileException: C:\Users\willi\Desktop\N-pulse\scalismo_project\your_file.scala
+2025.03.14 13:35:14 INFO  BSP server: For more details, please see 'C:\Users\willi\Desktop\N-pulse\scalismo_project\.scala-build\stacktraces\1741955714-13348063734905500576.log'
+2025.03.14 13:35:15 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:35:18 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:35:18 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:35:21 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:35:22 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:35:22 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:35:23 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:35:23 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Exception in thread "pool-14-thread-1" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:244)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+2025.03.14 13:35:23 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:35:25 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:35:31 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:35:31 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:35:33 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:35:33 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:35:35 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:35:35 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:35:37 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:35:56 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:35:58 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:35:58 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:35:59 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:36:01 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:36:02 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:36:04 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:36:05 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:36:05 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:36:06 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:36:06 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:36:06 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:36:08 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:36:10 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:36:10 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:36:13 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:36:14 ERROR Timeout waiting for 'build/initialize' response
+2025.03.14 13:36:14 ERROR Failed to connect with build server, no functionality will work.
+java.util.concurrent.TimeoutException
+	at java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1960)
+	at java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2095)
+	at scala.meta.internal.metals.BuildServerConnection$.initialize(BuildServerConnection.scala:757)
+	at scala.meta.internal.metals.BuildServerConnection$.$anonfun$fromSockets$1(BuildServerConnection.scala:630)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:840)
+
+2025.03.14 13:36:14 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:36:14 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:36:14 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:36:14 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:36:17 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:36:17 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:36:18 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:36:20 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+mars 14, 2025 1:36:21 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+AVERTISSEMENT: Unsupported notification method: metals/windowStateDidChange
+2025.03.14 13:36:21 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\1_scaling.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:36:21 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\1_scaling.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:36:21 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\1_scaling.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:36:23 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\1_scaling.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:36:23 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\1_scaling.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:36:24 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\1_scaling.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:36:26 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\1_scaling.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:36:27 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\1_scaling.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:36:32 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\1_scaling.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:36:38 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\1_scaling.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:36:39 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\1_scaling.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:36:41 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\1_scaling.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:36:41 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\1_scaling.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:36:41 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\1_scaling.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:36:42 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\1_scaling.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:36:42 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\1_scaling.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:36:43 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\1_scaling.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:36:47 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\1_scaling.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:36:50 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:36:50 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:36:52 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:36:53 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:36:53 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:36:53 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:36:54 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:36:54 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:36:54 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:36:56 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:36:56 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:36:57 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:36:57 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:36:57 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:36:59 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:37:05 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:37:07 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:37:07 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:37:07 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+mars 14, 2025 1:37:14 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+AVERTISSEMENT: Unsupported notification method: metals/windowStateDidChange
+mars 14, 2025 1:37:51 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+AVERTISSEMENT: Unsupported notification method: metals/windowStateDidChange
+2025.03.14 13:37:51 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:37:53 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+mars 14, 2025 1:37:53 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+AVERTISSEMENT: Unsupported notification method: metals/windowStateDidChange
+mars 14, 2025 1:38:01 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+AVERTISSEMENT: Unsupported notification method: metals/windowStateDidChange
+2025.03.14 13:38:12 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:38:19 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:38:19 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:38:19 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+mars 14, 2025 1:38:20 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+AVERTISSEMENT: Unsupported notification method: metals/windowStateDidChange
+mars 14, 2025 1:38:20 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+AVERTISSEMENT: Unsupported notification method: metals/windowStateDidChange
+2025.03.14 13:38:19 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:38:20 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:38:23 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:38:23 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:38:27 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:38:27 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:38:29 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:38:29 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:38:32 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:38:32 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:38:35 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:38:35 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:38:37 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:38:37 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:38:38 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:38:38 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:38:38 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:38:40 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:38:40 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:38:42 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:38:43 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:38:42 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:38:42 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:38:43 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:38:42 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:38:42 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:38:43 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:38:44 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:38:44 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:38:44 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:38:44 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:38:44 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:38:44 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:38:45 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:38:45 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:38:45 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:38:45 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:38:46 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:38:46 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:38:46 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:38:47 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:38:46 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:38:46 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:38:46 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:38:47 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:38:48 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:38:48 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:38:48 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:38:48 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:38:48 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:38:48 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:38:48 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:38:49 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:38:49 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:38:49 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:38:49 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:38:49 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:38:49 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:38:58 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:38:58 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:38:58 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:38:58 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:38:58 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:38:58 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:38:58 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+mars 14, 2025 1:38:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 232
+2025.03.14 13:38:58 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:38:59 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:38:58 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:38:59 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:38:59 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:38:59 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:00 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:00 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:00 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:00 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:00 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:00 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:00 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:00 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:01 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:00 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:01 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+mars 14, 2025 1:39:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 255
+2025.03.14 13:39:01 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:01 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:01 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:01 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:01 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:01 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:03 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:03 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:05 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:05 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:05 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:06 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:06 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:06 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:06 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:07 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:06 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:07 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:07 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:07 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:07 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:07 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:07 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:08 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:08 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:08 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:09 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:09 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:11 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:11 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:11 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:11 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:11 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:12 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:12 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:11 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:12 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:12 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:12 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:13 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:13 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:13 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:13 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:13 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:13 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:13 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:13 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:14 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:14 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:14 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:14 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:14 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:15 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:14 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+mars 14, 2025 1:39:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 330
+2025.03.14 13:39:14 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:15 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:14 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:15 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:15 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:15 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:15 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:15 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:16 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:16 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:16 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:17 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:16 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:16 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:17 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:18 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:18 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:18 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:18 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:18 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:19 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:18 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:19 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:19 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:21 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:22 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:39:22 WARN  no build target for: C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala
+2025.03.14 13:39:22 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+mars 14, 2025 1:39:24 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+AVERTISSEMENT: Unsupported notification method: metals/windowStateDidChange
+mars 14, 2025 1:40:30 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+AVERTISSEMENT: Unsupported notification method: metals/windowStateDidChange
+2025.03.14 13:41:40 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:41:40 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:41:40 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+mars 14, 2025 1:41:41 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+AVERTISSEMENT: Unsupported notification method: metals/windowStateDidChange
+mars 14, 2025 1:41:41 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+AVERTISSEMENT: Unsupported notification method: metals/windowStateDidChange
+2025.03.14 13:41:41 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+mars 14, 2025 1:41:45 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+AVERTISSEMENT: Unsupported notification method: metals/windowStateDidChange
+mars 14, 2025 1:41:56 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+AVERTISSEMENT: Unsupported notification method: metals/windowStateDidChange
+2025.03.14 13:41:58 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:41:59 WARN  no build target for: C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala
+2025.03.14 13:41:59 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:41:59 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:42:02 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:42:06 INFO  Shutting down server
+2025.03.14 13:42:06 INFO  shutting down Metals
+2025.03.14 13:42:06 INFO  Exiting server
+2025.03.14 13:42:51 INFO  Started: Metals version 1.5.1 in folders 'C:\Users\willi\Desktop\N-pulse\scalismo_project' for client Visual Studio Code 1.98.2.
+2025.03.14 13:42:52 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+mars 14, 2025 1:42:54 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+AVERTISSEMENT: Unsupported notification method: metals/windowStateDidChange
+2025.03.14 13:42:54 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:42:55 INFO  Attempting to connect to the build server...
+2025.03.14 13:42:55 INFO  Running BSP server List(C:\Program Files\scala-cli-x86_64-pc-win32\scala-cli.exe, bsp, --json-options, C:\Users\willi\Desktop\N-pulse\scalismo_project\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\willi\Desktop\N-pulse\scalismo_project\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\willi\Desktop\N-pulse\scalismo_project\.scala-build\ide-envs.json, C:\Users\willi\Desktop\N-pulse\scalismo_project\your_file.scala)
+2025.03.14 13:42:55 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\willi\Desktop\N-pulse\scalismo_project\.metals\bsp.trace.json or C:\Users\willi\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.03.14 13:42:56 INFO  BSP server: Error: java.nio.file.NoSuchFileException: C:\Users\willi\Desktop\N-pulse\scalismo_project\your_file.scala
+2025.03.14 13:42:56 INFO  BSP server: For more details, please see 'C:\Users\willi\Desktop\N-pulse\scalismo_project\.scala-build\stacktraces\1741956175-16429694081436459357.log'
+2025.03.14 13:42:56 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:42:56 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+mars 14, 2025 1:42:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 9
+2025.03.14 13:42:56 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:43:55 ERROR Timeout waiting for 'build/initialize' response
+2025.03.14 13:43:55 WARN  Retrying connection to the build server scala-cli
+2025.03.14 13:43:55 INFO  Running BSP server List(C:\Program Files\scala-cli-x86_64-pc-win32\scala-cli.exe, bsp, --json-options, C:\Users\willi\Desktop\N-pulse\scalismo_project\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\willi\Desktop\N-pulse\scalismo_project\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\willi\Desktop\N-pulse\scalismo_project\.scala-build\ide-envs.json, C:\Users\willi\Desktop\N-pulse\scalismo_project\your_file.scala)
+2025.03.14 13:43:56 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\willi\Desktop\N-pulse\scalismo_project\.metals\bsp.trace.json or C:\Users\willi\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.03.14 13:43:56 INFO  BSP server: Error: java.nio.file.NoSuchFileException: C:\Users\willi\Desktop\N-pulse\scalismo_project\your_file.scala
+2025.03.14 13:43:56 INFO  BSP server: For more details, please see 'C:\Users\willi\Desktop\N-pulse\scalismo_project\.scala-build\stacktraces\1741956236-8607680679257360542.log'
+mars 14, 2025 1:43:56 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+AVERTISSEMENT: Unsupported notification method: metals/windowStateDidChange
+mars 14, 2025 1:44:01 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+AVERTISSEMENT: Unsupported notification method: metals/windowStateDidChange
+2025.03.14 13:44:02 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+mars 14, 2025 1:44:05 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+AVERTISSEMENT: Unsupported notification method: metals/windowStateDidChange
+2025.03.14 13:44:06 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:06 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:06 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:07 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:10 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step2.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:10 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step2.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:10 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step2.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:14 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:14 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:16 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step2.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:16 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step2.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:19 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:19 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:19 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:20 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:22 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:22 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:22 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:22 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:29 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:29 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:29 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:29 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:29 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:29 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:29 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:29 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:29 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:30 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:30 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:30 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:30 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:30 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:31 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:30 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:31 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:31 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:31 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:31 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:31 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:31 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:31 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:31 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:31 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:31 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:31 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:31 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:31 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:32 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:37 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:37 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:37 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:37 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:37 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:37 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:37 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:37 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:38 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:38 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:38 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:38 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:38 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:38 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:38 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:38 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:39 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:39 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:41 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:41 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:41 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:41 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:41 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:41 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:41 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:42 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:41 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:42 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:42 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:42 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:42 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:42 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:42 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:42 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:42 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:43 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:42 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:44 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:44 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:44 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:44 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:44 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:44 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:44 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:44 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:45 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:45 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:45 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:45 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:46 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:45 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:46 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:46 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:46 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:46 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:46 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:47 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:48 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step2.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:49 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step2.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:55 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:55 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:55 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:55 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:56 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:56 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:56 ERROR Timeout waiting for 'build/initialize' response
+2025.03.14 13:44:56 WARN  Retrying connection to the build server scala-cli
+2025.03.14 13:44:56 INFO  Running BSP server List(C:\Program Files\scala-cli-x86_64-pc-win32\scala-cli.exe, bsp, --json-options, C:\Users\willi\Desktop\N-pulse\scalismo_project\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\willi\Desktop\N-pulse\scalismo_project\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\willi\Desktop\N-pulse\scalismo_project\.scala-build\ide-envs.json, C:\Users\willi\Desktop\N-pulse\scalismo_project\your_file.scala)
+2025.03.14 13:44:56 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:56 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:56 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:56 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:56 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:56 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:57 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\willi\Desktop\N-pulse\scalismo_project\.metals\bsp.trace.json or C:\Users\willi\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.03.14 13:44:56 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:57 INFO  BSP server: Error: java.nio.file.NoSuchFileException: C:\Users\willi\Desktop\N-pulse\scalismo_project\your_file.scala
+2025.03.14 13:44:57 INFO  BSP server: For more details, please see 'C:\Users\willi\Desktop\N-pulse\scalismo_project\.scala-build\stacktraces\1741956297-2681329501866070538.log'
+2025.03.14 13:44:57 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:57 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:57 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:44:57 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:45:10 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:45:11 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:45:15 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:45:15 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:45:18 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+mars 14, 2025 1:45:22 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+AVERTISSEMENT: Unsupported notification method: metals/windowStateDidChange
+mars 14, 2025 1:45:45 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+AVERTISSEMENT: Unsupported notification method: metals/windowStateDidChange
+2025.03.14 13:45:57 ERROR Timeout waiting for 'build/initialize' response
+2025.03.14 13:45:57 WARN  Retrying connection to the build server scala-cli
+2025.03.14 13:45:57 INFO  Running BSP server List(C:\Program Files\scala-cli-x86_64-pc-win32\scala-cli.exe, bsp, --json-options, C:\Users\willi\Desktop\N-pulse\scalismo_project\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\willi\Desktop\N-pulse\scalismo_project\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\willi\Desktop\N-pulse\scalismo_project\.scala-build\ide-envs.json, C:\Users\willi\Desktop\N-pulse\scalismo_project\your_file.scala)
+2025.03.14 13:45:57 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\willi\Desktop\N-pulse\scalismo_project\.metals\bsp.trace.json or C:\Users\willi\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.03.14 13:45:58 INFO  BSP server: Error: java.nio.file.NoSuchFileException: C:\Users\willi\Desktop\N-pulse\scalismo_project\your_file.scala
+2025.03.14 13:45:58 INFO  BSP server: For more details, please see 'C:\Users\willi\Desktop\N-pulse\scalismo_project\.scala-build\stacktraces\1741956357-2410803362372539383.log'
+mars 14, 2025 1:46:26 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+AVERTISSEMENT: Unsupported notification method: metals/windowStateDidChange
+2025.03.14 13:46:27 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:46:30 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+mars 14, 2025 1:46:35 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+AVERTISSEMENT: Unsupported notification method: metals/windowStateDidChange
+2025.03.14 13:46:35 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:46:35 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step2.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:46:37 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:46:37 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:46:37 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:46:37 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step2.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:46:37 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+mars 14, 2025 1:46:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 330
+2025.03.14 13:46:39 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:46:41 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step2.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:46:48 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:46:48 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:46:50 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step2.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:46:50 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step2.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:46:54 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step2.scala. Using presentation compiler with project's scala-library version: 3.3.4
+mars 14, 2025 1:46:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 418
+2025.03.14 13:46:57 ERROR Timeout waiting for 'build/initialize' response
+2025.03.14 13:46:57 WARN  Retrying connection to the build server scala-cli
+2025.03.14 13:46:57 INFO  Running BSP server List(C:\Program Files\scala-cli-x86_64-pc-win32\scala-cli.exe, bsp, --json-options, C:\Users\willi\Desktop\N-pulse\scalismo_project\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\willi\Desktop\N-pulse\scalismo_project\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\willi\Desktop\N-pulse\scalismo_project\.scala-build\ide-envs.json, C:\Users\willi\Desktop\N-pulse\scalismo_project\your_file.scala)
+2025.03.14 13:46:59 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\willi\Desktop\N-pulse\scalismo_project\.metals\bsp.trace.json or C:\Users\willi\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.03.14 13:47:00 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step2.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:47:00 INFO  BSP server: Error: java.nio.file.NoSuchFileException: C:\Users\willi\Desktop\N-pulse\scalismo_project\your_file.scala
+2025.03.14 13:47:00 INFO  BSP server: For more details, please see 'C:\Users\willi\Desktop\N-pulse\scalismo_project\.scala-build\stacktraces\1741956419-12823721880341590614.log'
+2025.03.14 13:47:00 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step2.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:47:00 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step2.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:47:00 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step2.scala. Using presentation compiler with project's scala-library version: 3.3.4
+mars 14, 2025 1:47:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 448
+2025.03.14 13:47:05 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:47:05 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:47:05 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:47:05 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:47:07 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:47:07 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:47:08 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:47:10 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+mars 14, 2025 1:47:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 512
+mars 14, 2025 1:47:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 517
+mars 14, 2025 1:47:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 550
+2025.03.14 13:47:20 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:47:58 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step2.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:47:58 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step2.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:47:59 ERROR Timeout waiting for 'build/initialize' response
+2025.03.14 13:47:59 WARN  Retrying connection to the build server scala-cli
+2025.03.14 13:47:59 INFO  Running BSP server List(C:\Program Files\scala-cli-x86_64-pc-win32\scala-cli.exe, bsp, --json-options, C:\Users\willi\Desktop\N-pulse\scalismo_project\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\willi\Desktop\N-pulse\scalismo_project\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\willi\Desktop\N-pulse\scalismo_project\.scala-build\ide-envs.json, C:\Users\willi\Desktop\N-pulse\scalismo_project\your_file.scala)
+2025.03.14 13:48:00 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\willi\Desktop\N-pulse\scalismo_project\.metals\bsp.trace.json or C:\Users\willi\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.03.14 13:48:00 INFO  BSP server: Error: java.nio.file.NoSuchFileException: C:\Users\willi\Desktop\N-pulse\scalismo_project\your_file.scala
+2025.03.14 13:48:00 INFO  BSP server: For more details, please see 'C:\Users\willi\Desktop\N-pulse\scalismo_project\.scala-build\stacktraces\1741956480-7142808968653540379.log'
+2025.03.14 13:48:02 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step2.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:48:03 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step2.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:48:03 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step2.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:48:03 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step2.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:48:04 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step2.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:48:04 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step2.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:48:05 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step2.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:48:05 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step2.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:48:05 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step2.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:48:05 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step2.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:48:07 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:48:07 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:48:07 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:48:07 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:48:08 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:48:08 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:48:08 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:48:09 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+mars 14, 2025 1:48:16 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+AVERTISSEMENT: Unsupported notification method: metals/windowStateDidChange
+mars 14, 2025 1:48:19 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+AVERTISSEMENT: Unsupported notification method: metals/windowStateDidChange
+2025.03.14 13:48:20 WARN  no build target for: C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala
+2025.03.14 13:48:20 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:48:20 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:48:20 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step2.scala. Using presentation compiler with project's scala-library version: 3.3.4
+mars 14, 2025 1:48:22 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+AVERTISSEMENT: Unsupported notification method: metals/windowStateDidChange
+2025.03.14 13:49:00 ERROR Timeout waiting for 'build/initialize' response
+2025.03.14 13:49:00 ERROR Failed to connect with build server, no functionality will work.
+java.util.concurrent.TimeoutException
+	at java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1960)
+	at java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2095)
+	at scala.meta.internal.metals.BuildServerConnection$.initialize(BuildServerConnection.scala:757)
+	at scala.meta.internal.metals.BuildServerConnection$.$anonfun$fromSockets$1(BuildServerConnection.scala:630)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:840)
+
+2025.03.14 13:49:00 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:49:00 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:49:01 INFO  no build target found for C:\Users\willi\Desktop\N-pulse\scalismo_project\step2.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.14 13:49:01 INFO  time: code lens generation in 1.12s
+2025.03.14 13:49:01 INFO  time: code lens generation in 1.13s
+2025.03.14 13:49:01 INFO  time: code lens generation in 1.13s
+2025.03.14 13:49:01 INFO  time: code lens generation in 1.12s
+2025.03.14 13:49:01 INFO  time: code lens generation in 1.12s
+2025.03.14 13:49:01 INFO  time: code lens generation in 1.12s
+2025.03.14 13:49:01 INFO  time: code lens generation in 1.12s
+2025.03.14 13:49:01 INFO  time: code lens generation in 1.13s
+2025.03.14 13:49:01 INFO  time: code lens generation in 1.12s
+2025.03.14 13:49:01 INFO  time: code lens generation in 1.12s
+2025.03.14 13:49:01 INFO  time: code lens generation in 1.12s
+2025.03.14 13:49:01 INFO  time: code lens generation in 1.12s
+mars 14, 2025 1:49:16 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+AVERTISSEMENT: Unsupported notification method: metals/windowStateDidChange
+2025.03.14 13:54:00 INFO  Shutting down server
+2025.03.14 13:54:00 INFO  shutting down Metals
+2025.03.14 13:54:00 INFO  Exiting server
